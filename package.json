@@ -14,5 +14,6 @@
 	"author": "David Shin",
 	"description": "A project that does something awesome",
 	"keywords": ["freecodecamp", "back-end", "npm"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0.0"
 }
