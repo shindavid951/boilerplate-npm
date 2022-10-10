@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "David Shin",
-	"description": "A project that does something awesome"
+	"description": "A project that does something awesome",
+	"keywords": ["freecodecamp", "back-end", "npm"]
 }
